@@ -2,7 +2,7 @@ GitHub: https://github.com/karimiali2005/Assignment
 
 -----------------------------
 -  Web Documents Assignment2 at BTU University
--  Anees Ansar and Ali Karimi and Mohammad Jawad Rezaei
+-  **Anees Ansar and Ali Karimi and Mohammad Jawad Rezaei**
 -----------------------------
 
 **Business Description**
