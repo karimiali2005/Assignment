@@ -28,23 +28,23 @@ AJA is a multi-purpose integrated concept offering everything under one roof inc
 
 **About Us:** The primary purpose of an about us page is to inform the reader about the company and its operations. This is a straightforward goal that nearly all businesses have to fulfill in some fashion or another. However, there are other reasons why about us pages are common fixtures on business websites. The text on these pages is a marketing tool for a business, enticing potential customers with both the history and aspirations of a business, as well as adding a human element. Additionally, about us pages are incorporated into search-engine marketing efforts as a way to find potential customers through Web searches.
 
-**OUR SERVICES:** Quick access to our business services
+**OUR SERVICES:** We will enlist all our services with short text explaining some prominent features about what we offer in a particular servuce and try to explain to our visitors what exactly the service is about with the help of an image or image sliders.
 
 **LIVE SPORTS:** We explain for a sports fanatic, a place having wide screens, screaming fans, and a sparkling aroma of wine is heaven. This entertainment plus dining destination is a perfect place to cheer up for your favorite teams.
 
-**24/7 FUN:** We explain From enticing dancing floors and upbeat music to exciting games and classy wines
+**24/7 FUN:** We explain From enticing dancing floors and upbeat music to exciting games and classy wines.
 
 **LIVE MUSIC:** Showing videos and photos of live music and expressing Features for a dreamy night
 
 **CORPORATE EVENTS:** This page expresses that effective corporate events are prerequisites not only to sustain a company’s success but also for the satisfaction of employees. also, It shows pictures and videos.
 
-**FOOD:** We explain that we c serve the most delicious, affordable, convenient, and healthy food. Offering 24-hour food, Club offers quality food and beverages maintaining international standards
+**FOOD:** We explain that we anc serve the most delicious, affordable, convenient, and healthy food. Offering 24-hour food, Club offers quality food and beverages maintaining international standards
 
-**E-Gaming:** All kinds of games AJA
+**E-Gaming:** This page will provide information about E-gaming events currently being hosted on AjA Lounges. We will provide paltforms for E-gaming lovers where they can play online games or host tournments for friends.
 
-**UPCOMING EVENTS:** Future events and a brief explanation of them
+**UPCOMING EVENTS:** This page will provide information about upcoming events in AjA lounges and help visitors to allign their schedule to take part in all the possible events.
 
-**LATEST NEWS:** We show news AJA and the world
+**LATEST NEWS:** This page will explain visitors about the latest news about AjA Lounges and help users to stay in touch with our official news.
 
 **BLOG:** We write about interests, opinions or anything else and share them with others.
 
