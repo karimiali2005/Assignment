@@ -38,7 +38,7 @@ AJA is a multi-purpose integrated concept offering everything under one roof inc
 
 **CORPORATE EVENTS:** This page expresses that effective corporate events are prerequisites not only to sustain a company’s success but also for the satisfaction of employees. also, It shows pictures and videos.
 
-**FOOD:** We explain that we anc serve the most delicious, affordable, convenient, and healthy food. Offering 24-hour food, Club offers quality food and beverages maintaining international standards
+**FOOD:** We explain that we serve the most delicious, affordable, convenient, and healthy food. Offering 24-hour food, Club offers quality food and beverages maintaining international standards
 
 **E-Gaming:** This page will provide information about E-gaming events currently being hosted on AjA Lounges. We will provide paltforms for E-gaming lovers where they can play online games or host tournments for friends.
 
