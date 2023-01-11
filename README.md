@@ -6,6 +6,38 @@ GitHub: https://github.com/karimiali2005/Assignment
 -  **Anees Ansar and Mohammad Jawad Rezaei and Ali Karimi**
 -----------------------------
 
+### Division of work
+<table>
+    <tr>
+        <th>Task</th>
+        <th>person</th>
+    </tr>
+    <tr>
+        <th>CSS structure</th>
+        <th>Jawad, Anees ,Ali</th>
+    </tr>
+    <tr>
+        <th>Gallery,FutureProjects,Faqs,OpenPostions,HomePage</th>
+        <th>Jawad </th>
+    </tr>
+    <tr>
+        <th>TermCondition,Team,TakeAction,Partners,Merchandise</th>
+        <th>Anees</th>
+    </tr>
+    <tr>
+        <th>About,Contact-Us,Current-Projects,Donate</th>
+        <th>Ali</th>
+    </tr>
+    <tr>
+        <th>Styleshort.css Desktop</th>
+        <th>Jawad, Anees ,Ali</th>
+    </tr>
+    <tr>
+        <th>Styleshort.css Responsive</th>
+        <th>Jawad, Anees ,Ali</th>
+    </tr>
+</table>
+
 **Business Description**
 
 ```
